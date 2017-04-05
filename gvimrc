@@ -6,7 +6,7 @@ if has('X11')
 	colorscheme zellner
 endif
 if has('gui_macvim')
-	colorscheme molokai
+	colorscheme macvim
 	set bg=dark
 	set transparency=20
 	"set guifont=Menlo:h12
